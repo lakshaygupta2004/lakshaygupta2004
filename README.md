@@ -54,6 +54,9 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lakshaygupta2004&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lakshaygupta2004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
