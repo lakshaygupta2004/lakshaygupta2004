@@ -72,11 +72,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lakshaygupta2004/lakshaygupta2004/output/github-contribution-grid-snake.svg" />
-</p>
-
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
