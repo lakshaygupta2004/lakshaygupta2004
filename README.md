@@ -72,6 +72,12 @@
 
 ---
 
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/lakshaygupta2004/lakshaygupta2004/blob/output/github-snake-dark.svg)
+</div>
+
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
